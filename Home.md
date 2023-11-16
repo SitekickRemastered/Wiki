@@ -2,7 +2,7 @@
 title: Main Page
 description: Main page for the Sitekick Remastered Wiki.
 published: true
-date: 2023-11-16T00:18:20.828Z
+date: 2023-11-16T00:35:46.066Z
 tags: home, home page, homepage, main, main page, wiki
 editor: markdown
 dateCreated: 2023-11-03T19:34:03.269Z
@@ -12,7 +12,7 @@ dateCreated: 2023-11-03T19:34:03.269Z
 {.is-warning}
 
 > Sitekick Remastered is a completely free game, containing no advertisements, subscriptions, microtransactions, or any other form of monetization.
-{.is-success} 
+{.is-success}
 
 <div style="display: flex;">
     <div style="flex: 1; width: 25%;">
