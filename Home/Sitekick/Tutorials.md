@@ -2,7 +2,7 @@
 title: Tutorials
 description: Learn to use all Sitekick Remastered features.
 published: true
-date: 2023-11-15T23:04:50.334Z
+date: 2023-11-18T18:11:09.076Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-04T23:04:24.198Z
@@ -14,6 +14,7 @@ dateCreated: 2023-11-04T23:04:24.198Z
 - [Downloading and Installing Sitekick Remastered *Step-by-step installation instructions for all supported platforms.*](/Home/Sitekick/Tutorials/Downloading-and-Installing)
 - [Registering and verifying your account *Register, verify, and login to play Sitekick Remastered.*](/Home/Sitekick/Tutorials/Registration)
 - [Link with Discord *Verify yourself on the Sitekick Remastered Discord Server.*](/Home/Sitekick/Tutorials/Discord)
+- [SitePic Discord Bot *Make a customized Sitekick profile picture to customize your Discord account.*](/Home/Sitekick/Tutorials/SitePic)
 {.links-list}
 # How to Play
 - [Obtaining Chips *Learn all the different ways to get chips.*](/Home/Sitekick/Tutorials/Obtaining-Chips)
