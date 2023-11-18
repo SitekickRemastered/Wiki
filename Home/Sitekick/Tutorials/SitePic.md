@@ -2,7 +2,7 @@
 title: Make a Sitekick Profile Picture for Discord
 description: 
 published: true
-date: 2023-11-18T18:47:36.782Z
+date: 2023-11-18T21:36:30.550Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-18T18:16:39.804Z
@@ -58,3 +58,9 @@ You may want to install Discord for [Android](https://play.google.com/store/apps
 - /translate - Allows you to shift the profile picture.
 
 - /flip - Allows you to flip the profile picture... looks weird.
+
+## Presets:
+- /kablooey - Changes the profile picture to Kablooey.
+- /authicer - Changes the profile picture to Authicer.
+- /paul - Changes the profile picture to Paul.
+- /deadkick - Changes the profile picture to a deadkick.
