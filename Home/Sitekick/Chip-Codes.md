@@ -2,7 +2,7 @@
 title: Chip Codes
 description: 
 published: true
-date: 2023-11-28T04:19:48.128Z
+date: 2023-11-28T04:23:18.270Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-04T18:33:36.128Z
@@ -18,4 +18,4 @@ A full list of chip codes can be found below.
 
 | Code | Chip # | Chip Name | Obtained from | Active |
 |:---:|:---:|:---:|:---:|:---:|
-| JINX25  | Unknown | Unknown | JINX | False |
+| JINX25  | Unknown | Unknown | JINX 2 1/2 Portal Peril | False |
