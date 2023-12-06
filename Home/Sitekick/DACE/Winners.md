@@ -1,8 +1,8 @@
 ---
-title: Design A Chip Event (DACE)
+title: Design A Chip Event (DACE) Winners
 description: 
 published: true
-date: 2023-11-15T23:05:25.782Z
+date: 2023-12-06T03:31:45.453Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-04T18:54:29.738Z
