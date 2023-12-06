@@ -2,7 +2,7 @@
 title: Chip Codes
 description: 
 published: true
-date: 2023-12-06T03:25:26.608Z
+date: 2023-12-06T03:25:36.905Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-10T17:51:58.009Z
@@ -20,4 +20,4 @@ Players can obtain Chips by visiting the dump, trading other players, or enterin
 | testnomore | ![chip_0015_icon.png](/chips/icons/chip_0015_icon.png) | 0015 | <img alt="chip_0015.png" src="/chips/chip_0015.png" style="max-width: 250px;"> | Soundwave | Rare | Discord | True |
 | welcome | ![chip_0001_icon.png](/chips/icons/chip_0001_icon.png) | 0001 | <img alt="chip_0001.png" src="/chips/chip_0001.png" style="max-width: 250px;"> | Monday | Uncommon | Discord | True |
 | JINX25 | Unknown | Unknown | Unknown | Unknown | Unknown | JINX 2 1/2 Portal Peril	| False |
-| BJ564ZY | ![chip_0705_icon.png](/chips/icons/chip_0705_icon.png) | 0001 | <img alt="chip_0705.png" src="/chips/chip_0705.png" style="max-width: 250px;"> | Monday | Uncommon | DACE Winner | False |
+| BJ564ZY | ![chip_0705_icon.png](/chips/icons/chip_0705_icon.png) | 0001 | <img alt="chip_0705.png" src="/chips/chip_0705.png" style="max-width: 250px;"> | Monday | Uncommon | DACE Winner - expoz | False |
