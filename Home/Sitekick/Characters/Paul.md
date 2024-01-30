@@ -2,7 +2,7 @@
 title: Paul
 description: Paul
 published: true
-date: 2024-01-30T05:54:14.242Z
+date: 2024-01-30T05:56:47.119Z
 tags: paul
 editor: markdown
 dateCreated: 2024-01-30T05:52:59.712Z
@@ -16,7 +16,7 @@ dateCreated: 2024-01-30T05:52:59.712Z
             </tr>
             <tr>
                 <td colspan="2">
-                    <img src="/paul.png" alt="Paul" style="max-width: 100%;">
+                    <img src="/paul.png" alt="Paul" style="display: block; margin: auto;">
                 </td>
             </tr>
             <tr>
