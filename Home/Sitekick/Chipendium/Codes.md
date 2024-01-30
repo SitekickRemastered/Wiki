@@ -2,7 +2,7 @@
 title: Chip Codes
 description: 
 published: true
-date: 2023-12-06T03:25:36.905Z
+date: 2024-01-30T01:13:58.593Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-10T17:51:58.009Z
@@ -21,3 +21,4 @@ Players can obtain Chips by visiting the dump, trading other players, or enterin
 | welcome | ![chip_0001_icon.png](/chips/icons/chip_0001_icon.png) | 0001 | <img alt="chip_0001.png" src="/chips/chip_0001.png" style="max-width: 250px;"> | Monday | Uncommon | Discord | True |
 | JINX25 | Unknown | Unknown | Unknown | Unknown | Unknown | JINX 2 1/2 Portal Peril	| False |
 | BJ564ZY | ![chip_0705_icon.png](/chips/icons/chip_0705_icon.png) | 0001 | <img alt="chip_0705.png" src="/chips/chip_0705.png" style="max-width: 250px;"> | Monday | Uncommon | DACE Winner - expoz | False |
+| BJ564ZY | ? | ? | ? | ? | ? | Big Fun Party Mix VII | False |
