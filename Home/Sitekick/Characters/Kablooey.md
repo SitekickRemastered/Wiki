@@ -2,7 +2,7 @@
 title: Kablooey
 description: 
 published: true
-date: 2023-11-15T23:05:17.030Z
+date: 2024-01-30T05:57:06.342Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-08T23:11:12.734Z
@@ -16,7 +16,7 @@ dateCreated: 2023-11-08T23:11:12.734Z
             </tr>
             <tr>
                 <td colspan="2">
-                    <img src="/kablooey2.png" alt="Kablooey" style="max-width: 100%;">
+                    <img src="/kablooey2.png" alt="Kablooey" style="display: block; margin: auto;">
                 </td>
             </tr>
             <tr>
