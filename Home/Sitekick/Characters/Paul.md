@@ -2,7 +2,7 @@
 title: Paul
 description: Paul
 published: true
-date: 2024-01-30T05:56:47.119Z
+date: 2024-01-30T06:18:06.418Z
 tags: paul
 editor: markdown
 dateCreated: 2024-01-30T05:52:59.712Z
@@ -54,7 +54,7 @@ dateCreated: 2024-01-30T05:52:59.712Z
     <div style="flex: 3; width: 75%; padding: 0 0 0 5px; color: #424242; margin-top: -10px;">
         <h2>Appeared in</h2>
         <ul>
-            <li><a href="https://wiki.sitekickremastered.com/e/en/Home/Sitekick/Characters/Paul">Paul</a></li>
+            <li><a href="https://wiki.sitekickremastered.com/en/Home/Sitekick/Characters/Paul/">Paul</a></li>
         </ul>
         <h2>Sitekick Remastered</h2>
         <p>Paul</p>
