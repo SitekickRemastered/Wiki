@@ -2,7 +2,7 @@
 title: Design A Chip Event (DACE) Winners
 description: 
 published: true
-date: 2023-12-06T03:31:45.453Z
+date: 2024-05-14T21:43:14.081Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-04T18:54:29.738Z
@@ -26,7 +26,7 @@ The Design A Chip Event (aka DACE) is an event that has happened many times duri
 - SeaHorse by Gum12
 ## 2.0
 ### Winners
-- MechLegs3 by Charizard25
+- MechLegs3 by ryuyasha11 & Charizard25
 - TheRobeyBlade by Robeyblade
 - Glass by Monster_man & Loverboy111
 - ShredStick by Ryuyasha11
