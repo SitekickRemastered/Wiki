@@ -2,8 +2,8 @@
 title: Main Page
 description: Main page for the Sitekick Remastered Wiki.
 published: true
-date: 2023-11-16T00:35:46.066Z
-tags: home, home page, homepage, main, main page, wiki
+date: 2024-05-16T02:04:09.109Z
+tags: home, homepage, wiki, main, main page, home page
 editor: markdown
 dateCreated: 2023-11-03T19:34:03.269Z
 ---
